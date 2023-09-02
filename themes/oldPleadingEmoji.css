@@ -1,0 +1,9 @@
+[src^="/assets/e63c47fd56c7ed1e4552974baaef4b4e.svg"] {
+  content: url("https://vendicated.github.io/random-files/pleading_face.svg");
+}
+[style*="background-position: -200px -40px;"][style*='background-image: url("/assets/d218674f309bcbfbf56faf6074df6347.png");'] {
+  background-image: url("https://vendicated.github.io/random-files/pleading_face.svg") !important;
+  background-size: contain !important;
+  background-position: center !important;
+  background-repeat: no-repeat;
+}
